@@ -1,3 +1,8 @@
+---
+name: job-hunter
+description: Run the daily job search pipeline -- ATS scrape, Indeed search, score, tailor resumes, rebuild dashboard, and auto-send a summary email.
+---
+
 # Job Hunter
 
 Run Phil Gustin's daily job search pipeline: scrape ATS boards, search Indeed, score postings, tailor resumes, rebuild the dashboard, and auto-send a summary email to phil.gustin@gmail.com.
